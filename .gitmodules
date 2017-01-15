@@ -1,0 +1,3 @@
+[submodule "sub1"]
+	path = sub1
+	url = https://github.com/can60297/sub1.git
